@@ -1,0 +1,12 @@
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/bin/Debug/netcoreapp3.1/SpringerDownload.deps.json
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/bin/Debug/netcoreapp3.1/SpringerDownload.runtimeconfig.json
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/bin/Debug/netcoreapp3.1/SpringerDownload.runtimeconfig.dev.json
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/bin/Debug/netcoreapp3.1/SpringerDownload.dll
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/bin/Debug/netcoreapp3.1/SpringerDownload.pdb
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/obj/Debug/netcoreapp3.1/SpringerDownload.csprojAssemblyReference.cache
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/obj/Debug/netcoreapp3.1/SpringerDownload.csproj.CoreCompileInputs.cache
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/obj/Debug/netcoreapp3.1/SpringerDownload.AssemblyInfoInputs.cache
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/obj/Debug/netcoreapp3.1/SpringerDownload.AssemblyInfo.cs
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/obj/Debug/netcoreapp3.1/SpringerDownload.dll
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/obj/Debug/netcoreapp3.1/SpringerDownload.pdb
+/Users/osmanys/Projects/SpringerDownload/SpringerDownload/obj/Debug/netcoreapp3.1/SpringerDownload.genruntimeconfig.cache
